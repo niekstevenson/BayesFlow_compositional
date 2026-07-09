@@ -1,0 +1,12 @@
+# System and Python cache
+.DS_Store
+__pycache__/
+*.py[cod]
+
+# Not straight scripts
+*.ipynb
+
+# Generated training artifacts and rendered outputs
+checkpoints/
+output/
+tmp/
