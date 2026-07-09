@@ -5,6 +5,7 @@ __pycache__/
 
 # Not straight scripts
 *.ipynb
+!Compositional_Diffusion.ipynb
 
 # Generated training artifacts and rendered outputs
 checkpoints/
