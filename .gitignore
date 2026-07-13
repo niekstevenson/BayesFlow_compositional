@@ -10,4 +10,11 @@ __pycache__/
 # Generated training artifacts and rendered outputs
 checkpoints/
 output/
+results/
 tmp/
+*.keras
+*.npz
+*.log
+
+# Local reference documents and other large binary objects
+*.pdf
